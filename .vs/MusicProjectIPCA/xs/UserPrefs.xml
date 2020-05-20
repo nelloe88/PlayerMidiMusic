@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{C9DC4E50-5E7E-C774-B61A-34CDC4E2BE6E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/AudioController.cs">
+    <Files>
+      <File FileName="Assets/Script/AudioController.cs" Line="26" Column="6" />
+      <File FileName="Assets/ValintaMusicStreaming/Scripts/Components/ValintaPlayer.cs" />
+      <File FileName="Assets/ValintaMusicStreaming/Scripts/Components/VMusicPlayback.cs" />
+      <File FileName="Assets/Script/ExeClass.cs" />
+      <File FileName="Assets/Script/Recorder.cs" Line="30" Column="22" />
+      <File FileName="Assets/Script/MidiFile.cs" Line="286" Column="49" />
+      <File FileName="Assets/Script/MediaDecoder.bindings.cs" Line="19" Column="1" />
+      <File FileName="Assets/Script/SavWav.cs" Line="28" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicProjectIPCA" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="AudioController.cs" selected="True" />
+              </Node>
+              <Node name="ValintaMusicStreaming" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Components" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MusicProjectIPCA" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a417ee80-fbd8-47f2-84a2-971b8e2517d0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
